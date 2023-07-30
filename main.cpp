@@ -4,7 +4,6 @@
 
 using namespace std;
 
-
 void disp(char array[3][3], int &a, int &i, int &j) {
   if (a == 1) {
     i = 0;
